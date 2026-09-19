@@ -48,4 +48,4 @@ This repository contains the SafarSaathi frontend prototype developed for the Sm
 
 ## 👥 Team
 
-Developed by the SafarSaathi team.
+Developed by the Idea2Impact team.
